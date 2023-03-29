@@ -1,7 +1,6 @@
-# OpenCollabNFT
+# Art Museum    
 
-
-A JavaScript library for crypto-native ecommerce: buying, selling, and bidding on any cryptogood. With OpenCollabNFT.js, you can easily build your own native marketplace for your non-fungible tokens, or NFTs alone or with a team with censorship and accurate information the best of both world. These can be ERC-721 or ERC-1155 (semi-fungible) items. You don't have to deploy your own smart contracts or backend orderbooks.
+A Framework for crypto-native ecommerce: buying, selling, and bidding on any cryptogood. With OpenCollabNFT.js, you can easily build your own native marketplace for your non-fungible tokens, or NFTs alone or with a team with censorship and accurate information the best of both world. These can be ERC-721 or ERC-1155 (semi-fungible) items. You don't have to deploy your own smart contracts or backend orderbooks.
 
 Good ideas:
 
