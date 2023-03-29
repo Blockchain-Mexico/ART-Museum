@@ -1,0 +1,22 @@
+{
+  "name": "opennftcollabsea",
+  "version": "1.0.0",
+  "description": "A Sdk for create nft fair collabs with your team ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blockchain-Mexico/ART-Museum.git"
+  },
+  "keywords": [
+    "nft"
+  ],
+  "author": "Blatam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blockchain-Mexico/ART-Museum/issues"
+  },
+  "homepage": "https://github.com/Blockchain-Mexico/ART-Museum#readme"
+}
