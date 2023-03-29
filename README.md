@@ -6,27 +6,27 @@ Good ideas:
 
 Instafest NFT 
 
-Click bait of denver
+Clickbait of denver
 
 Better models than cringe it out
 
-Discord channel engements
+Discord channel engagements
 
-Tokens engements 
+Tokens engagements 
 
 Implement the SDK and create your own sdks.
 
 # Feautures
 
-[] Governances
+[] Governance's
 [] UI-UX Research
 [] AI
 [] Stream
-[] Crosschains
+[] Cross chains
 [] Zks
 [] Donations
-[] Conect with worldcoin and lens for better
-[] Conect with FANG 
+[] Connect with world coin and lens for better
+[] Connect with FANG 
 [] 
 
 
@@ -48,3 +48,13 @@ https://ethglobal.com/showcase/dalle-nft-xuczr
 
 https://github.com/daphnecharles/kiwik
 
+
+## Code 
+
+https://github.com/gianni-dalerta/awesome-nft
+
+https://github.com/unlock-protocol
+
+# Mobile 
+
+https://github.com/horizontalsystems/unstoppable-wallet-android
